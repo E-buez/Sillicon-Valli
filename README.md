@@ -10,12 +10,12 @@ The purpose of this repository it's for education and test. But the code it's be
 Products Features
 Feature | Coded | Description
 -------- | ------- | ---------
-Add a Product | ```✔ | Ability of Add a Product on the System```
-List Products | ```✔ | Ability of List Products```
-Edit a Product | ```✔ | Ability of Edit a Product```
-Delete a Product | ```✔ | Ability of Delete a Product```
-Stock | ```✔ | Ability of Update the Stock```
-Stock History | ```✔ | Ability to see the Stock History```
+Add a Product | ✔ | Ability of Add a Product on the System
+List Products | ✔ | Ability of List Products
+Edit a Product | ✔ | Ability of Edit a Product
+Delete a Product | ✔ | Ability of Delete a Product
+Stock | ✔ | Ability of Update the Stock
+Stock History | ✔ | Ability to see the Stock History
 
 
 
