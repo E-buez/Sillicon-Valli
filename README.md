@@ -18,14 +18,14 @@ Stock | ✔ | Ability of Update the Stock
 Stock History | ✔ | Ability to see the Stock History
 
  Purchase Features
-# Feature |	Coded |	Description
--------- | ------- | ----------
-Create a Cart	| ✔ | Ability of Create a new Cart
-See Cart | ✔ | Ability to see the Cart and it items
-Remove a Cart |	✔	| Ability of Remove a Cart
-Add Item | ✔ | Ability of add a new Item on the Cart
-Remove a Item |	✔	| Ability of Remove a Item from the Cart
-Checkout | ✔ | Ability to Checkout
+Feature |	Coded |	Description
+-------- | ------- | ---------
+Create a Cart	| ```✔ | Ability of Create a new Cart```
+See Cart | ✔``` | Ability to see the Cart and it items```
+Remove a Cart |	```✔	| Ability of Remove a Cart```
+Add Item | ```✔ | Ability of add a new Item on the Cart```
+Remove a Item |	```✔	| Ability of Remove a Item from the Cart```
+Checkout | ```✔ | Ability to Checkout```
 
 
 
